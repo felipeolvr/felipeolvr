@@ -29,4 +29,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-soaress/"/></a>
 </p>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=felipeolvr)
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=felipeolvr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeolvr&hide=TeX&layout=compact&theme=dark)
