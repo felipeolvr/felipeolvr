@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
-  Hi, my name is Felipe, i'm <strong>Front-End</strong> developer, passionate about technology and active in the development of projects for the Web. . Currently an enthusiast in functional programming in the Elixir language.
+  Hi, my name is Felipe, i'm <strong>Front-End</strong> developer, passionate about technology and active in the development of projects for the Web. Currently an enthusiast in functional programming in the Elixir language.
 </p>
 
 <p align="left">
