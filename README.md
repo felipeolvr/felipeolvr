@@ -33,6 +33,8 @@
 
 ## ⚡ GitHub Stats
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felipeolvr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeolvr&hide=TeX&layout=compact&theme=dark)
+ <div>
+  <a href="https://github.com/felipeolvr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeolvr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeolvr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
