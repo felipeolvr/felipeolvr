@@ -28,6 +28,8 @@
   <a href="https://www.linkedin.com/in/felipe-oliveira-444557174/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
+                                                                                                            
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)                                                                                                          
 
 ## ⚡ GitHub Stats
 
