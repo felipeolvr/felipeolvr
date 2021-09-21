@@ -12,7 +12,7 @@
       &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Git, Docker and AWS.</strong> <br>
 </p>
-
+ 
 <p align="left">
   💬 Learning: <strong>Elixir, Vue, TypeScript.</strong>
 </p>
